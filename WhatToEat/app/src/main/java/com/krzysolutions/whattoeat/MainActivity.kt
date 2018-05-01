@@ -7,6 +7,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
+    //array list of food items
     val foodList = arrayListOf("Chinese", "Burger", "Pizza", "Khichuri", "Bhaat")
 
     override fun onCreate(savedInstanceState: Bundle?) {
